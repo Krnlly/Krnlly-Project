@@ -3,7 +3,7 @@ delfolder(v)
 end
 wait()
 --Scripts
-writefile("RiotHub/Scripts/Drone.RiotHub",game:HttpGet("https://raw.githubusercontent.com/Krnlly/Krnlly-Project/main/Bend"))
+writefile("RiotHub/Scripts/Bend.RiotHub",game:HttpGet("https://raw.githubusercontent.com/Krnlly/Krnlly-Project/main/Bend"))
 
 --Install Packages
 print("Installing Packages...")
