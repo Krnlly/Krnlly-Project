@@ -6,6 +6,7 @@ wait()
 writefile("RiotHub/Scripts/Bend.RiotHub",game:HttpGet("https://raw.githubusercontent.com/Krnlly/Krnlly-Project/main/Bend"))
 writefile("RiotHub/Scripts/Werewolf.RiotHub",game:HttpGet("https://raw.githubusercontent.com/Krnlly/Krnlly-Project/main/Werewolf"))
 writefile("RiotHub/Scripts/Thrust.RiotHub",game:HttpGet("https://raw.githubusercontent.com/Krnlly/Krnlly-Project/main/Thrust"))
+writefile("RiotHub/Scripts/Idle.RiotHub",game:HttpGet("https://raw.githubusercontent.com/Krnlly/Krnlly-Project/main/Idle"))
 
 --Install Packages
 print("Installing Packages...")
