@@ -4,6 +4,7 @@ end
 wait()
 --Scripts
 writefile("RiotHub/Scripts/Bend.RiotHub",game:HttpGet("https://raw.githubusercontent.com/Krnlly/Krnlly-Project/main/Bend"))
+writefile("RiotHub/Scripts/Werewolf.RiotHub",game:HttpGet("https://raw.githubusercontent.com/Krnlly/Krnlly-Project/main/Werewolf"))
 
 --Install Packages
 print("Installing Packages...")
